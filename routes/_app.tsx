@@ -6,12 +6,6 @@ export default function App({ Component }: PageProps) {
         <title>Brandon Horst</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="stylesheet" href="/assets/css/main.css" />
-        <link
-          href="/assets/fontawesome/css/fontawesome.min.css"
-          rel="stylesheet"
-        />
-        <link href="/assets/fontawesome/css/brands.min.css" rel="stylesheet" />
 
         <link
           rel="icon"
@@ -33,7 +27,7 @@ export default function App({ Component }: PageProps) {
         />
 
         <meta property="og:title" content="Brandon Horst" />
-        <meta property="og:description" content="Software Engineer" />
+        <meta property="og:description" content="Software Engineer, Google" />
         <meta property="og:image" content="/images/avatar.jpg" />
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="720" />
