@@ -22,7 +22,14 @@ export default function Home() {
               href="https://lacona.app"
               class="text-blue-600 hover:text-blue-800 transition-colors"
             >
-              Lacona for Mac
+              Lacona
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://uptalkapp.com"
+              class="text-blue-600 hover:text-blue-800 transition-colors"
+            >
+              Uptalk
             </a>
           </p>
           <p class="text-gray-600">Cambridge MA, USA</p>
